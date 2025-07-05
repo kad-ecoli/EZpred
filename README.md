@@ -1,3 +1,3 @@
 # EZpred: Enzyme function prediction #
 
-[EZpred](https://github.com/kad-ecoli/InterLabelEC)
+Check source code here: [EZpred](https://github.com/kad-ecoli/InterLabelEC)
